@@ -1,5 +1,5 @@
 # Databricks notebook source
-# MAGIC %run "./02 Creating Spark Data Frame for Filtering"
+# MAGIC %run "./01.Creating Spark Data Frame for Filtering"
 
 # COMMAND ----------
 
